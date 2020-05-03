@@ -1,0 +1,394 @@
+div.head1
+{
+background-color:rgb(58, 58, 211);
+height: 50px;
+margin-left: -130px;
+margin-right: -128px;
+padding-left: 0px;
+margin-top: -1px;
+}
+img.img1
+{
+    width: 20px;
+    margin-top: 15px;
+    margin-left: 18px;
+    
+}
+img.imgf
+{
+    margin-left: 120px;
+    margin-top: 15px;
+    width: 20px
+}
+.p1
+{
+ text-align:center;
+ position: relative;
+ top: -20px;
+ color: white;
+ font-style: normal;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 100%;
+}
+.b1
+{
+    display: inline-block;
+    position: relative;
+    left: 1000px;
+    top: -60px;
+    background-color:whitesmoke;
+    opacity: 1;
+    border-radius: 0%;
+    font-size: medium;
+    border: thick black;
+    margin-left: 5px;
+    
+}
+div.d1
+{
+    background-color:rgba(236, 228, 228, 0.938);
+height: 70px;
+margin-left: -130px;
+margin-right: -128px;
+padding-left: 0px;
+margin-top: -1px;
+}
+img.img2
+{
+    margin-left: 120px;
+    width: 15%;
+    margin-top: 10px;
+    height: 70%;
+  background-color: silver;
+}
+li
+{
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    top: -50px;
+    margin-left: 19px;
+    font-size: 20px;
+}
+li:hover
+{
+    background-color: royalblue;
+    border-radius: 3px;
+}
+div.d2
+{
+    position: relative;
+    top: 450px;
+    background-color:rgb(58, 58, 211);
+    height: 30px;
+    color: wheat;
+}
+div.d3
+{
+    position: relative;
+    top: 465px;
+    background-color:rgba(236, 228, 228, 0.938);
+    height: 600px;
+   
+}
+.h1f, .h11{
+ display: inline-block;
+ text-align: center;
+ position: relative;
+ top: 40px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+ font-weight: bold;
+ 
+}
+h1.h1f
+{
+ margin-left: 350px;
+ color: rgb(178, 178, 250);
+
+}
+h1.h11
+{
+    color: darkgreen;
+
+}
+.d4
+{
+    position: relative;
+    top: 40px;
+    left: 400px;
+    display: inline-block;
+    color: darkgreen;
+    font-weight: bold;
+}
+.p4
+{
+
+    position: relative;
+    top: 20px;
+    left : 7px;
+    color:  black;
+    font-size: medium;
+}
+.d5
+{
+    background-color:rgb(58, 58, 211);
+height: 380px;
+margin-left: -130px;
+margin-right: -128px;
+padding-left: 0px;
+margin-top: 60px;
+}
+.img5{
+    position: relative;
+   top:100px;
+   left: 100px;
+    width:60px;
+    margin-left: 180px;
+}
+h3.tiles
+{
+   color: white;
+   display: inline-block;
+   position: relative;
+   top:120px;
+   left: 100px;
+    margin-left: 130px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+}
+label.l1
+{
+color:rgb(111, 241, 111);
+}
+.p5
+{
+    color: white;
+   display: inline-block;
+   position: relative;
+   top:120px;
+   left: 90px;
+    margin-left: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+ font-weight: bold;
+}
+.d8
+{
+    position: relative;
+    top: 40px;
+    left: 500px;
+    display: inline-block;
+    color: darkgreen;
+    font-weight: bold;
+}
+.d6
+{
+    position: relative;
+    top: 10px;
+    background-color:rgba(236, 228, 228, 0.938);
+    height: 600px;
+}
+.c1
+{
+    position: relative;
+     top:-400px;
+     left:10px;
+margin-left: 25px;
+     background-color: white;
+     height: 160px;
+     width: 300px;
+display: inline-block;
+margin-top: 20px;
+
+}
+
+.c1:hover()
+{
+    background-color: white;
+}
+img.img7
+{
+    position: relative;
+   top:14px;
+   left: -50px;
+    width:60px;
+    margin-left: 180px;
+}
+.headingdiv
+{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    position: relative;
+    top:40px;
+    left: 50px;
+    
+}
+.mission
+{
+    
+    position: relative;
+    top: -300px;
+    color: rgb(83, 83, 212);
+    font-family:Arial, Helvetica, sans-serif;
+}
+.c2
+{
+    width: 340px;
+    height: 80px;
+    background-color:rgb(247, 244, 244);
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.imgh
+{
+    position: relative;
+    top:10px;
+    left:30px;
+    display: inline-block;
+    
+
+}
+.heading6
+{
+    position: relative;
+    color: rgb(83, 83, 212); ;
+    top:15px;
+left:50px;
+display:inline-block ;
+font-family: 'Times New Roman', Times, serif;
+font-size: 26px;
+font-weight: normal;
+
+}
+.c3{
+position: relative;
+    top: -270px;
+    left:800px;
+    color: rgb(83, 83, 212);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.m1
+{
+    color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: blue;
+   
+}
+.h2f, .h22{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    font-weight: bold;
+    
+   }
+   h1.h2f
+   {
+    margin-left: 350px;
+    color: rgb(178, 178, 250);
+   
+   }
+   h1.h22
+   {
+       color: darkgreen;
+   
+   }
+   .d88
+{
+    position: relative;
+    top: 60px;
+    left: 450px;
+    display: inline-block;
+    color: darkgreen;
+    font-weight: bold;
+}
+.d66
+{
+    position: relative;
+    top: 1800px;
+    background-color:white;
+    height: 400px;
+}
+.i9
+{
+    display: inline-block;
+    width:200px;
+    height: 170px;
+    position: relative;
+    top: 70px;
+}
+.foo{
+height: 600px;
+width: 1350px;
+background-color: black;
+padding-left: 0px;
+margin-top: 1700px;
+margin-left: -130px;
+margin-right: -128px;
+
+
+}
+p.p0
+{
+    color:white;
+    position: relative;
+    top:50px;
+    left:50px;
+
+}
+img.i0
+{
+    width:30px;
+    position: relative;
+    left :70px;
+    top:60px;
+}
+p.p02
+{
+    position: relative;
+    top:30px;
+    left:120px;
+    color:white;
+    
+}
+
+.h90
+{
+    color: white;
+    position: relative;
+    top: -450px;
+    left:490px;
+}
+img.imgfi
+{
+    position: relative;
+    top: -450px;
+    left:490px;
+    margin-top: 15px;
+    width: 20px;
+    margin-left: 10px;
+}
+.copy
+{
+    background-color:rgb(58, 58, 211);
+height: 40px;
+margin-left: -130px;
+margin-right: -128px;
+padding-left: 0px;
+margin-top: 0px;
+}
+body{
+    width: 100%;
+     height: 100%;
+margin: 0px;
+padding: 0px;
+    }
