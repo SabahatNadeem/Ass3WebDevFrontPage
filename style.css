@@ -67,8 +67,8 @@ li
     position: relative;
     left: 500px;
     top: -50px;
-    margin-left: 19px;
-    font-size: 20px;
+    margin-left: 2px;
+    font-size: 17px;
 }
 li:hover
 {
@@ -380,7 +380,7 @@ img.imgfi
 .copy
 {
     background-color:rgb(58, 58, 211);
-height: 40px;
+height: 50px;
 margin-left: -130px;
 margin-right: -128px;
 padding-left: 0px;
